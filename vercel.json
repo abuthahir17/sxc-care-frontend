@@ -2,6 +2,5 @@
   "buildCommand": "chmod +x node_modules/.bin/react-scripts && npm run build",
   "installCommand": "npm install --force",
   "framework": "create-react-app",
-  "outputDirectory": "build",
-  "nodeVersion": "20.x"
+  "outputDirectory": "build"
 }
